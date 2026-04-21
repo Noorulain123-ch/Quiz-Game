@@ -47,6 +47,6 @@ This project helped me improve:
 
 ##  Live Demo
 
-https://yourusername.github.io/quiz-app
+https://Noorulain123-ch.github.io/index
 
 
